@@ -14,7 +14,9 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="14%" alt="Broken system!" align="right"/>
+<img src="https://cdn.dribbble.com/userupload/17638357/file/original-10a0b4d2a1c0ebfbc0c1205ca1ff9b45.gif" width="28%" alt="Broken system!" align="right"/>
+
+<br>
 
 Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actionable insights through data analysis, cleaning, and interactive dashboards that support data-driven decisions and deliver real business value.
 
