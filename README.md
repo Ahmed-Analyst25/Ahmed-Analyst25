@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 
-<img align="right" height="180" src="https://i.pinimg.com/originals/1d/bd/01/1dbd016ceab7b48d3322b83064267e53.gif" alt="data gif"/>
+<img align="right"  height="180" src="https://i.pinimg.com/originals/1d/bd/01/1dbd016ceab7b48d3322b83064267e53.gif" alt="data gif"/>
 
 Data Analyst with a strong passion for turning complex datasets into **clear, actionable insights**.  
 Experienced in **data cleaning, analysis, and building interactive dashboards** to support data-driven decision-making.  
@@ -46,6 +46,7 @@ Skilled in identifying trends, improving reporting processes, and delivering sol
 ## 🎯 Core Skills & Expertise
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" align="absmiddle" /> &nbsp;Git & GitHub — Version Control & Collaboration
+- <img src="" width="20" width="20" align="absmiddle" /> &nbsp;Data Analysis & Reporting 
 
 ---
 
