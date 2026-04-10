@@ -14,9 +14,6 @@
 
 ## 👨‍💻 About Me
 
-
-<img align="right"  height="208" src="https://i.pinimg.com/originals/1d/bd/01/1dbd016ceab7b48d3322b83064267e53.gif" alt="data gif"/>
-
 Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actionable insights through data analysis, cleaning, and interactive dashboards that support data-driven decisions and deliver real business value.
 
 - 📊 Building: Data Analysis & Dashboard Projects
