@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://cdn.dribbble.com/userupload/21903188/file/original-a5d733eb3955df1b51a8e653c97f37f4.gif" width="32%" alt="Broken system!" align="right"/>
+<img src="https://i.pinimg.com/originals/d9/64/57/d9645741e0ed635f63118f77f5ad48d1.gif" width="18%" alt="Broken system!" align="right"/>
 
 <br>
 
