@@ -40,7 +40,15 @@ Skilled in identifying trends, improving reporting processes, and delivering sol
 
 </div>
 
+
 ---
+
+## 🎯 Core Skills & Expertise
+
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+
+---
+
 
 ## 🛠️ Tech Tools
 
