@@ -12,17 +12,33 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## 👨‍💻 About Me
+
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/1d/bd/01/1dbd016ceab7b48d3322b83064267e53.gif" alt="data gif"/>
 
-I'm a **Data Analyst** passionate about transforming raw data into actionable insights that support business decisions.  
-I specialize in **data cleaning, analysis, and interactive dashboards** using modern Business Intelligence tools.  
+Data Analyst with a strong passion for turning complex datasets into **clear, actionable insights**.  
+Experienced in **data cleaning, analysis, and building interactive dashboards** to support data-driven decision-making.  
+Skilled in identifying trends, improving reporting processes, and delivering solutions that create real business value.
 
-- 🔭 Currently working on: Data Analysis & Dashboard Projects  
-- 🌱 Currently learning: Advanced Data Analysis Techniques  
-- 💼 Open to: Data Analyst Opportunities & Collaborations  
-- 📫 Reach me at: ahmedsaleh.datalab@email.com  
+- 📊 Building: Data Analysis & Dashboard Projects
+- 🚀 Learning: Advanced Analytics & Business Intelligence
+- 🎯 Interests: Data Visualization, Reporting Automation, Insights Generation
+- 💼 Open to: Data Analyst Roles & Collaborations
+
+---
+
+## 📬 Contact me
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201130571579)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsaleh.datalab@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-saleh-205529397)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmedsaleh.datalab)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AhmedSaleh)
+
+</div>
 
 ---
 
