@@ -45,6 +45,8 @@ Skilled in identifying trends, improving reporting processes, and delivering sol
 
 ## 🎯 Core Skills & Expertise
 
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
+
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" align="absmiddle" /> &nbsp;Version Control & Collaboration
 - <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="20" width="20" align="absmiddle" /> &nbsp;Data Cleaning & Preparation & Summarization
 - <img src="https://img.icons8.com/color/48/power-bi.png" width="20" align="absmiddle" />&nbsp;Data Visualization & Data Dax Formulas & Reporting
