@@ -46,7 +46,7 @@ Skilled in identifying trends, improving reporting processes, and delivering sol
 ## 🎯 Core Skills & Expertise
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" align="absmiddle" /> &nbsp;Git & GitHub — Version Control & Collaboration
-- <img src="" width="20" width="20" align="absmiddle" /> &nbsp;Data Analysis & Reporting 
+- <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="20" width="20" align="absmiddle" /> &nbsp;Excel — Data Cleaning & Preparation & Summarization
 
 ---
 
