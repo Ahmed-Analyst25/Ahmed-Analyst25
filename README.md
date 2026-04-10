@@ -45,8 +45,13 @@ Skilled in identifying trends, improving reporting processes, and delivering sol
 
 ## 🎯 Core Skills & Expertise
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" align="absmiddle" /> &nbsp;Git & GitHub — Version Control & Collaboration
-- <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="20" width="20" align="absmiddle" /> &nbsp;Excel — Data Cleaning & Preparation & Summarization
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" align="absmiddle" /> &nbsp;Version Control & Collaboration
+- <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="20" width="20" align="absmiddle" /> &nbsp;Data Cleaning & Preparation & Summarization
+- <img src="https://img.icons8.com/color/48/power-bi.png" width="20" align="absmiddle" />&nbsp;Data Visualization & Data Dax Formulas & Reporting
+- <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" align="absmiddle" />&nbsp;Structuring Efficient Data Models
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" align="absmiddle" />&nbsp;Data Analysis & Automation
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="20" align="absmiddle" />&nbsp;Task Management & Team Work
+- <img src="https://img.icons8.com/color/48/broom.png" width="20" align="absmiddle" />&nbsp;Data Preparation & Preprocessing
 
 ---
 
