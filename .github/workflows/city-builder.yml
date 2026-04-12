@@ -1,40 +1,33 @@
-name: City Builder
+name: City Grid Builder
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # كل يوم
+    - cron: "0 0 * * *"
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 permissions:
   contents: write
 
 jobs:
-  build-city:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Install dependencies
-        run: npm install node-fetch fs
+      - name: Generate City Grid
+        run: node city-grid.js
 
-      - name: Generate City SVG
-        run: node city.js
-        env:
-          GITHUB_USERNAME: Ahmed-Analyst25
-
-      - name: Commit generated city
+      - name: Commit result
         run: |
-          git config --global user.name "city-bot"
-          git config --global user.email "city-bot@users.noreply.github.com"
-          git add city.svg
-          git commit -m "🌆 update city builder" || echo "No changes"
+          git config user.name "city-bot"
+          git config user.email "city-bot@users.noreply.github.com"
+          git add city.txt
+          git commit -m "🏙️ update city grid" || echo "no changes"
           git push
