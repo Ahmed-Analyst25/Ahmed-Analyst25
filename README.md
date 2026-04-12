@@ -110,7 +110,8 @@ Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actiona
 
 </div>
 
-![Snake Animation](https://github.com/Abdelrahmen-Elashry/Abdelrahmen-Elashry/blob/output/snake-dark.svg)
+## 🐍 Contribution Snake
 
+![snake](https://github.com/Ahmed-Analyst25/Ahmed-Analyst25/blob/output/snake-dark.svg)
 
 </div>
