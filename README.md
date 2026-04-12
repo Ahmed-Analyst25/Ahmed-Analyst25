@@ -102,7 +102,7 @@ Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actiona
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Analyst25&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Analyst25&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800" height="170"/>
 
 </div>
 
