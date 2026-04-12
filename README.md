@@ -98,7 +98,7 @@ Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actiona
 
 
 ---
-## 📈 GitHub Stats
+## 🐍 Contribution Status
 
 <div align="center">
   
@@ -109,8 +109,6 @@ Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actiona
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Analyst25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
-
-## 🐍 Contribution Snake
 
 ![snake](https://github.com/Ahmed-Analyst25/Ahmed-Analyst25/blob/output/snake-dark.svg)
 
