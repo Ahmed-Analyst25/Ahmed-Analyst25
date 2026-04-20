@@ -1,4 +1,4 @@
-<h1 align="center">✋ Hello, I'm Ahmed Saleh</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32"/> Hello, I'm Ahmed Saleh</h1>
 <h3 align="center">Data Analyst | Power BI | Business Intelligence</h3>
 
 <div align="center">
