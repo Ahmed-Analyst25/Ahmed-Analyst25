@@ -14,8 +14,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://i.pinimg.com/originals/a1/ee/26/a1ee269ef55e446df279058c4550bd0d.gif" width="24%" />
-
 Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actionable insights through data analysis, cleaning, and interactive dashboards that support data-driven decisions and deliver real business value.
 
 - 📊 Building: Data Analysis & Dashboard Projects
@@ -42,7 +40,7 @@ Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actiona
 
 ## 🎯 Core Skills & Expertise
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
+<img align="right" src="https://i.pinimg.com/originals/a1/ee/26/a1ee269ef55e446df279058c4550bd0d.gif" width="24%" />
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" align="absmiddle" /> &nbsp;Version Control & Collaboration
 - <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="20" width="20" align="absmiddle" /> &nbsp;Data Cleaning & Preparation & Summarization
