@@ -92,6 +92,10 @@ Hi, I'm Ahmed Saleh, a Data Analyst focused on turning complex data into actiona
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
         Git & GitHub
       </td>
+      <td align="center">
+      <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705"  width="40"/><br/>
+      Draw.io
+      </td>
     </tr>
   </table>
 </p>
